@@ -1,2 +1,0 @@
-# G-team
-Unity
